@@ -1,6 +1,6 @@
 # chatbot
 
-A chatbot that prompts users to generate input and retrive information to help user epitomize their daily activities and track moods. 
+A chatbot that prompts user input, interpret information, and generate human language output. 
 
 The mini-project implements Natural Language Processing (NLP) and Natural Language Understanding (NLU). 
 
